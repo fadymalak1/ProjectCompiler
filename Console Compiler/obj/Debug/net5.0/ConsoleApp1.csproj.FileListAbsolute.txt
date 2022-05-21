@@ -1,0 +1,32 @@
+C:\Users\fady_\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\fady_\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\fady_\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\fady_\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\fady_\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\fady_\source\repos\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\fady_\source\repos\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\fady_\source\repos\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\fady_\source\repos\Console Compiler\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\fady_\source\repos\Console Compiler\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\fady_\source\repos\Console Compiler\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\fady_\source\repos\Console Compiler\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\fady_\source\repos\Console Compiler\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\fady_\source\repos\Console Compiler\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\fady_\source\repos\Console Compiler\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\fady_\source\repos\Console Compiler\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
